@@ -1,0 +1,10 @@
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.csproj.AssemblyReference.cache
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.csproj.SuggestedBindingRedirects.cache
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.csproj.CoreCompileInputs.cache
+D:\1670\BatTapCSharp\BatTapCSharp\bin\Debug\BatTapCSharp.exe
+D:\1670\BatTapCSharp\BatTapCSharp\bin\Debug\BatTapCSharp.pdb
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.exe
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.pdb
+D:\1670\BatTapCSharp\BatTapCSharp\bin\Debug\Newtonsoft.Json.dll
+D:\1670\BatTapCSharp\BatTapCSharp\bin\Debug\Newtonsoft.Json.xml
+D:\1670\BatTapCSharp\BatTapCSharp\obj\Debug\BatTapCSharp.csproj.CopyComplete
